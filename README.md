@@ -10,3 +10,10 @@ Senior QA Engineer
 - Understanding of Automation testing (Python, Selenium, Pytest, Allure, Docker, Jenkins)
 - Extensive experience in the design of test scenarios, test Logs and bug reports, planning and execution of tests, analysis and evaluation of results
 - Team player with good communication and interpersonal skills
+
+## Work experience
+- WANNA FASHION
+- VERV
+- INTELLECTSOFT
+- WARGAMING
+- EPAM
