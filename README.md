@@ -17,3 +17,6 @@ Senior QA Engineer
 - INTELLECTSOFT
 - WARGAMING
 - EPAM
+
+## Education
+- Belarusian State Pedagogical University
